@@ -1,0 +1,1752 @@
+
+### Input: give me a Beginner workout Routine 
+# output: 
+**Day 1: Push**
+1. Overhead Dumbbell Press, 7 - 12 reps, 2 sets
+2. Incline Dumbbell Press, 5 - 9 reps, 4 sets
+3. Overhead Dumbbell Extensions, 9 - 13 reps, 4 sets
+4. Barbell Bench Press, 6 - 11 reps, 4 sets
+5. Tricep Pushdowns, 10 - 12 reps, 4 sets
+6. Pec Deck, 9 - 14 reps, 3 sets
+7. Dumbbell Lateral Raises, 10 - 13 reps, 2 sets
+
+**Day 2: Pull**
+1. Barbell Shrugs, 9 - 13 reps, 3 sets
+2. Reverse Pec Deck, 9 - 11 reps, 2 sets
+3. Face Pulls, 6 - 9 reps, 3 sets
+4. Hammer Curls, 5 - 7 reps, 4 sets
+5. Seated Cable Rows, 6 - 11 reps, 2 sets
+
+**Day 3: Legs**
+1. Leg Press, 8 - 10 reps, 3 sets
+2. Standing Calf Raises, 8 - 12 reps, 3 sets
+3. Leg Extensions, 8 - 12 reps, 3 sets
+4. Hamstring Curls, 6 - 8 reps, 2 sets
+5. Goblet Squats, 5 - 7 reps, 2 sets
+6. Bodyweight Squats, 8 - 11 reps, 2 sets
+7. Glute Bridges, 6 - 11 reps, 4 sets
+
+**Day 4: Push**
+1. Overhead Dumbbell Extensions, 8 - 12 reps, 3 sets
+2. Tricep Pushdowns, 8 - 10 reps, 3 sets
+3. Pec Deck, 10 - 15 reps, 3 sets
+4. Barbell Bench Press, 6 - 8 reps, 3 sets
+5. Incline Dumbbell Press, 9 - 14 reps, 4 sets
+6. Overhead Dumbbell Press, 8 - 12 reps, 3 sets
+7. Dumbbell Lateral Raises, 7 - 12 reps, 3 sets
+
+**Day 5: Pull**
+1. Pull-Ups, 8 - 11 reps, 4 sets
+2. Single Arm Rows, 6 - 9 reps, 3 sets
+3. Face Pulls, 10 - 13 reps, 4 sets
+4. Barbell Shrugs, 5 - 7 reps, 4 sets
+5. Dumbbell Curls, 9 - 13 reps, 3 sets
+6. Hammer Curls, 6 - 11 reps, 3 sets
+7. Reverse Pec Deck, 8 - 13 reps, 2 sets
+
+**Day 6: Legs**
+1. Leg Extensions, 5 - 10 reps, 3 sets
+2. Goblet Squats, 9 - 13 reps, 2 sets
+3. Hamstring Curls, 9 - 11 reps, 3 sets
+4. Glute Bridges, 8 - 11 reps, 3 sets
+5. Bodyweight Squats, 5 - 7 reps, 2 sets
+
+**Day 7: Rest**
+
+
+### input: give me an Intermediate workout Routine
+#  output :
+**Day 1: Push**
+1. Tricep Pushdowns, 6 - 8 reps, 4 sets
+2. Dumbbell Pullover, 8 - 12 reps, 4 sets
+3. Dumbbell Bench Press, 7 - 11 reps, 2 sets
+4. Dumbbell Lateral Raises, 7 - 10 reps, 4 sets
+5. Cable Lateral Raises, 8 - 13 reps, 3 sets
+6. Skull Crushers, 6 - 10 reps, 3 sets
+
+**Day 2: Pull**
+1. Cable Curls, 9 - 11 reps, 3 sets
+2. Rear Delt Flyes, 8 - 11 reps, 4 sets
+3. Bent Over Rows, 9 - 13 reps, 4 sets
+4. Deadlifts, 10 - 14 reps, 3 sets
+5. Reverse Curls, 9 - 13 reps, 3 sets
+6. Pull-Ups, 9 - 13 reps, 4 sets
+7. T-bar Rows, 7 - 12 reps, 2 sets
+
+**Day 3: Legs**
+1. Lunges, 8 - 10 reps, 3 sets
+2. Romanian Deadlift, 7 - 10 reps, 2 sets
+3. Leg Press, 5 - 9 reps, 3 sets
+4. Sitting Calf Raises, 10 - 15 reps, 3 sets
+5. Leg Extensions, 8 - 11 reps, 3 sets
+
+**Day 4: Push**
+1. Skull Crushers, 9 - 11 reps, 2 sets
+2. Tricep Pushdowns, 8 - 11 reps, 4 sets
+3. Dumbbell Pullover, 10 - 12 reps, 2 sets
+4. Military Press, 7 - 11 reps, 2 sets
+5. Cable Lateral Raises, 5 - 10 reps, 2 sets
+6. Dumbbell Bench Press, 7 - 10 reps, 4 sets
+7. Dumbbell Lateral Raises, 8 - 12 reps, 4 sets
+
+**Day 5: Pull**
+1. Rear Delt Flyes, 8 - 12 reps, 2 sets
+2. Reverse Curls, 5 - 8 reps, 4 sets
+3. Face Pulls, 9 - 11 reps, 2 sets
+4. T-bar Rows, 7 - 11 reps, 3 sets
+5. Bent Over Rows, 9 - 12 reps, 3 sets
+6. Cable Curls, 8 - 10 reps, 3 sets
+7. Preacher Curls, 6 - 8 reps, 2 sets
+
+**Day 6: Legs**
+1. Romanian Deadlift, 6 - 11 reps, 2 sets
+2. Squats, 7 - 10 reps, 4 sets
+3. Leg Press, 7 - 12 reps, 3 sets
+4. Hamstring Curls, 9 - 12 reps, 4 sets
+5. Sitting Calf Raises, 9 - 14 reps, 4 sets
+
+**Day 7: Rest**
+
+
+### give me an Advanced workout Routine 
+# output: 
+**Day 1: Push**
+1. Incline Dumbbell Press, 10 - 15 reps, 4 sets
+2. Tricep Pushdowns, 9 - 11 reps, 4 sets
+3. Dumbbell Bench Press, 6 - 8 reps, 4 sets
+4. Dumbbell Lateral Raises, 7 - 11 reps, 4 sets
+5. Chest Flyes, 6 - 8 reps, 4 sets
+6. Cable Lateral Raises, 8 - 13 reps, 4 sets
+7. Military Press, 6 - 9 reps, 2 sets
+
+**Day 2: Pull**
+1. Cable Curls, 9 - 14 reps, 3 sets
+2. Hammer Curls, 6 - 9 reps, 3 sets
+3. Incline Curls, 10 - 12 reps, 3 sets
+4. Bent Over Rows, 5 - 8 reps, 2 sets
+5. Face Pulls, 5 - 7 reps, 3 sets
+6. Deadlifts, 8 - 13 reps, 4 sets
+
+**Day 3: Legs**
+1. Sitting Calf RaisesSitting Hamstring Curls, 10 - 14 reps, 3 sets
+2. Standing Calf Raises, 8 - 13 reps, 3 sets
+3. Bulgarian Split Squats, 10 - 12 reps, 4 sets
+4. Leg Extensions, 9 - 13 reps, 4 sets
+5. Squats, 10 - 14 reps, 2 sets
+
+**Day 4: Push**
+1. Tricep Pushdowns, 8 - 13 reps, 3 sets
+2. Cable Lateral Raises, 8 - 11 reps, 4 sets
+3. Chest Flyes, 9 - 11 reps, 2 sets
+4. Military Press, 7 - 11 reps, 4 sets
+5. Dumbbell Bench Press, 8 - 13 reps, 4 sets
+
+**Day 5: Pull**
+1. Pull-Ups, 6 - 9 reps, 4 sets
+2. Bent Over Rows, 5 - 10 reps, 3 sets
+3. Face Pulls, 7 - 10 reps, 3 sets
+4. Cable Curls, 5 - 8 reps, 2 sets
+5. Single Arm Pulldowns, 9 - 14 reps, 2 sets
+6. Incline Curls, 8 - 11 reps, 4 sets
+7. Hammer Curls, 10 - 13 reps, 2 sets
+
+**Day 6: Legs**
+1. Hip Thrust, 5 - 8 reps, 3 sets
+2. Bulgarian Split Squats, 5 - 8 reps, 4 sets
+3. Leg Extensions, 7 - 10 reps, 3 sets
+4. Squats, 9 - 12 reps, 4 sets
+5. Standing Calf Raises, 9 - 12 reps, 2 sets
+6. Sitting Calf RaisesSitting Hamstring Curls, 9 - 12 reps, 3 sets
+
+**Day 7: Rest**
+
+    
+### Input: give me a Beginner workout Routine 
+# output: 
+**Day 1: Push**
+1. Overhead Dumbbell Press, 5 - 8 reps, 3 sets
+2. Overhead Dumbbell Extensions, 6 - 9 reps, 4 sets
+3. Tricep Pushdowns, 5 - 10 reps, 3 sets
+4. Incline Dumbbell Press, 10 - 13 reps, 2 sets
+5. Pec Deck, 10 - 13 reps, 2 sets
+6. Dumbbell Lateral Raises, 10 - 12 reps, 4 sets
+7. Barbell Bench Press, 9 - 12 reps, 3 sets
+
+**Day 2: Pull**
+1. Pull-Ups, 8 - 13 reps, 2 sets
+2. Single Arm Rows, 9 - 11 reps, 2 sets
+3. Hammer Curls, 10 - 14 reps, 4 sets
+4. Face Pulls, 8 - 13 reps, 2 sets
+5. Seated Cable Rows, 6 - 9 reps, 4 sets
+6. Dumbbell Curls, 6 - 11 reps, 3 sets
+
+**Day 3: Legs**
+1. Leg Press, 10 - 14 reps, 3 sets
+2. Leg Extensions, 10 - 13 reps, 3 sets
+3. Glute Bridges, 7 - 11 reps, 3 sets
+4. Bodyweight Squats, 9 - 11 reps, 2 sets
+5. Standing Calf Raises, 9 - 13 reps, 3 sets
+
+**Day 4: Push**
+1. Tricep Pushdowns, 9 - 11 reps, 4 sets
+2. Dumbbell Lateral Raises, 10 - 14 reps, 3 sets
+3. Overhead Dumbbell Press, 8 - 12 reps, 4 sets
+4. Barbell Bench Press, 9 - 14 reps, 2 sets
+5. Pec Deck, 5 - 8 reps, 3 sets
+6. Incline Dumbbell Press, 8 - 13 reps, 4 sets
+7. Overhead Dumbbell Extensions, 9 - 12 reps, 3 sets
+
+**Day 5: Pull**
+1. Dumbbell Curls, 9 - 12 reps, 3 sets
+2. Face Pulls, 9 - 14 reps, 3 sets
+3. Pull-Ups, 9 - 12 reps, 3 sets
+4. Reverse Pec Deck, 7 - 9 reps, 2 sets
+5. Single Arm Rows, 9 - 12 reps, 3 sets
+
+**Day 6: Legs**
+1. Hamstring Curls, 10 - 15 reps, 4 sets
+2. Leg Extensions, 9 - 13 reps, 3 sets
+3. Goblet Squats, 6 - 11 reps, 3 sets
+4. Leg Press, 7 - 12 reps, 4 sets
+5. Bodyweight Squats, 7 - 10 reps, 2 sets
+6. Standing Calf Raises, 7 - 12 reps, 2 sets
+
+**Day 7: Rest**
+
+
+### input: give me an Intermediate workout Routine
+#  output :
+**Day 1: Push**
+1. Incline Barbell Press, 9 - 14 reps, 4 sets
+2. Tricep Pushdowns, 9 - 14 reps, 4 sets
+3. Military Press, 6 - 9 reps, 2 sets
+4. Skull Crushers, 7 - 9 reps, 3 sets
+5. Dumbbell Lateral Raises, 9 - 13 reps, 4 sets
+
+**Day 2: Pull**
+1. Face Pulls, 10 - 13 reps, 2 sets
+2. Rear Delt Flyes, 9 - 14 reps, 4 sets
+3. T-bar Rows, 7 - 10 reps, 2 sets
+4. Preacher Curls, 5 - 7 reps, 2 sets
+5. Pull-Ups, 10 - 12 reps, 2 sets
+6. Deadlifts, 10 - 13 reps, 2 sets
+7. Bent Over Rows, 8 - 10 reps, 2 sets
+
+**Day 3: Legs**
+1. Leg Press, 6 - 9 reps, 3 sets
+2. Lunges, 6 - 8 reps, 2 sets
+3. Sitting Calf Raises, 7 - 12 reps, 2 sets
+4. Hamstring Curls, 10 - 12 reps, 4 sets
+5. Leg Extensions, 6 - 8 reps, 3 sets
+6. Squats, 7 - 11 reps, 4 sets
+
+**Day 4: Push**
+1. Tricep Pushdowns, 5 - 8 reps, 2 sets
+2. Incline Barbell Press, 8 - 10 reps, 3 sets
+3. Cable Lateral Raises, 10 - 15 reps, 4 sets
+4. Dumbbell Pullover, 7 - 11 reps, 2 sets
+5. Dumbbell Lateral Raises, 5 - 8 reps, 2 sets
+6. Military Press, 8 - 10 reps, 4 sets
+7. Dumbbell Bench Press, 10 - 12 reps, 3 sets
+
+**Day 5: Pull**
+1. Cable Curls, 6 - 10 reps, 3 sets
+2. Rear Delt Flyes, 10 - 13 reps, 2 sets
+3. Deadlifts, 6 - 10 reps, 3 sets
+4. Pull-Ups, 9 - 13 reps, 4 sets
+5. Face Pulls, 6 - 9 reps, 4 sets
+6. T-bar Rows, 5 - 8 reps, 2 sets
+7. Preacher Curls, 10 - 14 reps, 3 sets
+
+**Day 6: Legs**
+1. Squats, 8 - 12 reps, 3 sets
+2. Sitting Calf Raises, 7 - 9 reps, 3 sets
+3. Leg Extensions, 5 - 8 reps, 4 sets
+4. Lunges, 5 - 9 reps, 4 sets
+5. Romanian Deadlift, 6 - 9 reps, 4 sets
+6. Hamstring Curls, 7 - 10 reps, 3 sets
+
+**Day 7: Rest**
+
+
+### give me an Advanced workout Routine 
+# output: 
+**Day 1: Push**
+1. Tricep Pushdowns, 9 - 13 reps, 2 sets
+2. Chest Flyes, 9 - 14 reps, 4 sets
+3. Military Press, 7 - 10 reps, 4 sets
+4. Skull Crushers, 6 - 8 reps, 2 sets
+5. Cable Lateral Raises, 5 - 7 reps, 2 sets
+6. Incline Dumbbell Press, 9 - 11 reps, 3 sets
+
+**Day 2: Pull**
+1. Single Arm Pulldowns, 9 - 12 reps, 2 sets
+2. Cable Curls, 6 - 10 reps, 3 sets
+3. Pull-Ups, 9 - 13 reps, 2 sets
+4. Incline Curls, 5 - 10 reps, 3 sets
+5. Hammer Curls, 6 - 8 reps, 4 sets
+6. Face Pulls, 8 - 11 reps, 3 sets
+
+**Day 3: Legs**
+1. Hip Thrust, 5 - 8 reps, 3 sets
+2. Bulgarian Split Squats, 5 - 7 reps, 4 sets
+3. Squats, 5 - 10 reps, 2 sets
+4. Standing Calf Raises, 7 - 12 reps, 2 sets
+5. Leg Extensions, 8 - 13 reps, 3 sets
+6. Sitting Calf RaisesSitting Hamstring Curls, 10 - 12 reps, 2 sets
+
+**Day 4: Push**
+1. Cable Lateral Raises, 5 - 9 reps, 4 sets
+2. Skull Crushers, 9 - 13 reps, 4 sets
+3. Tricep Pushdowns, 7 - 10 reps, 4 sets
+4. Dumbbell Lateral Raises, 10 - 14 reps, 4 sets
+5. Dumbbell Bench Press, 8 - 11 reps, 2 sets
+6. Chest Flyes, 9 - 14 reps, 3 sets
+
+**Day 5: Pull**
+1. Single Arm Pulldowns, 6 - 9 reps, 2 sets
+2. Hammer Curls, 6 - 9 reps, 2 sets
+3. Pull-Ups, 10 - 15 reps, 4 sets
+4. Bent Over Rows, 8 - 10 reps, 3 sets
+5. Incline Curls, 8 - 13 reps, 4 sets
+6. Face Pulls, 10 - 14 reps, 4 sets
+
+**Day 6: Legs**
+1. Bulgarian Split Squats, 6 - 11 reps, 2 sets
+2. Leg Extensions, 5 - 9 reps, 3 sets
+3. Standing Calf Raises, 10 - 13 reps, 2 sets
+4. Sitting Calf RaisesSitting Hamstring Curls, 6 - 9 reps, 3 sets
+5. Squats, 8 - 13 reps, 4 sets
+6. Hip Thrust, 5 - 8 reps, 3 sets
+
+**Day 7: Rest**
+
+    
+### Input: give me a Beginner workout Routine 
+# output: 
+**Day 1: Push**
+1. Tricep Pushdowns, 9 - 12 reps, 3 sets
+2. Barbell Bench Press, 9 - 11 reps, 3 sets
+3. Pec Deck, 6 - 8 reps, 4 sets
+4. Overhead Dumbbell Extensions, 6 - 10 reps, 4 sets
+5. Incline Dumbbell Press, 7 - 11 reps, 4 sets
+6. Dumbbell Lateral Raises, 8 - 12 reps, 4 sets
+
+**Day 2: Pull**
+1. Pull-Ups, 7 - 12 reps, 2 sets
+2. Reverse Pec Deck, 9 - 13 reps, 4 sets
+3. Seated Cable Rows, 9 - 12 reps, 3 sets
+4. Single Arm Rows, 5 - 9 reps, 3 sets
+5. Hammer Curls, 8 - 13 reps, 2 sets
+6. Dumbbell Curls, 6 - 9 reps, 4 sets
+
+**Day 3: Legs**
+1. Bodyweight Squats, 8 - 12 reps, 2 sets
+2. Leg Extensions, 9 - 14 reps, 2 sets
+3. Hamstring Curls, 8 - 12 reps, 2 sets
+4. Goblet Squats, 5 - 9 reps, 3 sets
+5. Leg Press, 9 - 14 reps, 4 sets
+6. Glute Bridges, 9 - 12 reps, 3 sets
+7. Standing Calf Raises, 9 - 13 reps, 3 sets
+
+**Day 4: Push**
+1. Pec Deck, 9 - 12 reps, 3 sets
+2. Tricep Pushdowns, 6 - 10 reps, 4 sets
+3. Overhead Dumbbell Press, 7 - 9 reps, 3 sets
+4. Barbell Bench Press, 9 - 13 reps, 2 sets
+5. Incline Dumbbell Press, 6 - 9 reps, 3 sets
+6. Overhead Dumbbell Extensions, 8 - 10 reps, 4 sets
+
+**Day 5: Pull**
+1. Pull-Ups, 5 - 8 reps, 4 sets
+2. Seated Cable Rows, 6 - 9 reps, 4 sets
+3. Dumbbell Curls, 7 - 10 reps, 3 sets
+4. Face Pulls, 7 - 9 reps, 4 sets
+5. Reverse Pec Deck, 8 - 11 reps, 3 sets
+6. Barbell Shrugs, 9 - 14 reps, 2 sets
+
+**Day 6: Legs**
+1. Glute Bridges, 6 - 11 reps, 3 sets
+2. Goblet Squats, 7 - 11 reps, 3 sets
+3. Hamstring Curls, 6 - 8 reps, 2 sets
+4. Standing Calf Raises, 9 - 13 reps, 2 sets
+5. Bodyweight Squats, 7 - 12 reps, 3 sets
+6. Leg Extensions, 9 - 13 reps, 4 sets
+7. Leg Press, 6 - 9 reps, 4 sets
+
+**Day 7: Rest**
+
+
+### input: give me an Intermediate workout Routine
+#  output :
+**Day 1: Push**
+1. Dumbbell Pullover, 5 - 8 reps, 2 sets
+2. Tricep Pushdowns, 9 - 13 reps, 2 sets
+3. Skull Crushers, 9 - 12 reps, 3 sets
+4. Incline Barbell Press, 9 - 14 reps, 4 sets
+5. Dumbbell Lateral Raises, 8 - 11 reps, 3 sets
+6. Cable Lateral Raises, 9 - 11 reps, 3 sets
+7. Military Press, 6 - 10 reps, 3 sets
+
+**Day 2: Pull**
+1. Face Pulls, 6 - 9 reps, 4 sets
+2. Rear Delt Flyes, 8 - 10 reps, 3 sets
+3. Reverse Curls, 5 - 10 reps, 2 sets
+4. Cable Curls, 10 - 12 reps, 4 sets
+5. Deadlifts, 5 - 10 reps, 4 sets
+6. Pull-Ups, 5 - 9 reps, 4 sets
+
+**Day 3: Legs**
+1. Hamstring Curls, 8 - 13 reps, 4 sets
+2. Romanian Deadlift, 8 - 12 reps, 3 sets
+3. Sitting Calf Raises, 7 - 12 reps, 3 sets
+4. Squats, 10 - 12 reps, 2 sets
+5. Lunges, 7 - 12 reps, 2 sets
+
+**Day 4: Push**
+1. Dumbbell Lateral Raises, 10 - 14 reps, 2 sets
+2. Tricep Pushdowns, 5 - 8 reps, 2 sets
+3. Military Press, 10 - 15 reps, 4 sets
+4. Skull Crushers, 9 - 11 reps, 2 sets
+5. Dumbbell Bench Press, 8 - 11 reps, 3 sets
+6. Cable Lateral Raises, 5 - 8 reps, 4 sets
+7. Dumbbell Pullover, 5 - 9 reps, 3 sets
+
+**Day 5: Pull**
+1. Preacher Curls, 9 - 14 reps, 4 sets
+2. Bent Over Rows, 6 - 8 reps, 4 sets
+3. Cable Curls, 10 - 14 reps, 3 sets
+4. Face Pulls, 8 - 13 reps, 3 sets
+5. Pull-Ups, 10 - 12 reps, 3 sets
+
+**Day 6: Legs**
+1. Hamstring Curls, 5 - 7 reps, 4 sets
+2. Lunges, 7 - 9 reps, 2 sets
+3. Romanian Deadlift, 5 - 8 reps, 3 sets
+4. Sitting Calf Raises, 6 - 11 reps, 4 sets
+5. Squats, 5 - 7 reps, 4 sets
+6. Leg Extensions, 9 - 12 reps, 3 sets
+
+**Day 7: Rest**
+
+
+### give me an Advanced workout Routine 
+# output: 
+**Day 1: Push**
+1. Incline Dumbbell Press, 6 - 9 reps, 4 sets
+2. Chest Flyes, 8 - 12 reps, 2 sets
+3. Skull Crushers, 6 - 9 reps, 3 sets
+4. Tricep Pushdowns, 10 - 15 reps, 3 sets
+5. Dumbbell Bench Press, 7 - 9 reps, 3 sets
+6. Cable Lateral Raises, 5 - 8 reps, 3 sets
+
+**Day 2: Pull**
+1. Pull-Ups, 5 - 10 reps, 3 sets
+2. Face Pulls, 5 - 10 reps, 4 sets
+3. Single Arm Pulldowns, 9 - 12 reps, 4 sets
+4. Cable Curls, 7 - 12 reps, 4 sets
+5. Deadlifts, 6 - 9 reps, 4 sets
+6. Incline Curls, 5 - 7 reps, 2 sets
+7. Bent Over Rows, 10 - 13 reps, 3 sets
+
+**Day 3: Legs**
+1. Bulgarian Split Squats, 5 - 8 reps, 4 sets
+2. Leg Extensions, 8 - 11 reps, 3 sets
+3. Standing Calf Raises, 6 - 11 reps, 3 sets
+4. Squats, 7 - 10 reps, 3 sets
+5. Sitting Calf RaisesSitting Hamstring Curls, 7 - 9 reps, 2 sets
+
+**Day 4: Push**
+1. Dumbbell Bench Press, 8 - 13 reps, 2 sets
+2. Chest Flyes, 6 - 9 reps, 4 sets
+3. Incline Dumbbell Press, 5 - 9 reps, 3 sets
+4. Cable Lateral Raises, 7 - 9 reps, 4 sets
+5. Skull Crushers, 9 - 13 reps, 4 sets
+6. Tricep Pushdowns, 5 - 7 reps, 4 sets
+7. Military Press, 9 - 13 reps, 4 sets
+
+**Day 5: Pull**
+1. Face Pulls, 6 - 10 reps, 3 sets
+2. Bent Over Rows, 6 - 10 reps, 4 sets
+3. Pull-Ups, 7 - 9 reps, 4 sets
+4. Cable Curls, 7 - 9 reps, 3 sets
+5. Single Arm Pulldowns, 6 - 10 reps, 3 sets
+
+**Day 6: Legs**
+1. Sitting Calf RaisesSitting Hamstring Curls, 9 - 13 reps, 3 sets
+2. Squats, 8 - 10 reps, 2 sets
+3. Standing Calf Raises, 9 - 12 reps, 3 sets
+4. Bulgarian Split Squats, 8 - 13 reps, 2 sets
+5. Hip Thrust, 5 - 10 reps, 2 sets
+
+**Day 7: Rest**
+
+    
+### Input: give me a Beginner workout Routine 
+# output: 
+**Day 1: Push**
+1. Tricep Pushdowns, 5 - 8 reps, 3 sets
+2. Incline Dumbbell Press, 6 - 11 reps, 3 sets
+3. Overhead Dumbbell Press, 9 - 12 reps, 3 sets
+4. Barbell Bench Press, 8 - 11 reps, 4 sets
+5. Pec Deck, 8 - 10 reps, 4 sets
+6. Overhead Dumbbell Extensions, 5 - 7 reps, 3 sets
+7. Dumbbell Lateral Raises, 5 - 7 reps, 2 sets
+
+**Day 2: Pull**
+1. Hammer Curls, 10 - 15 reps, 2 sets
+2. Face Pulls, 8 - 13 reps, 4 sets
+3. Dumbbell Curls, 7 - 11 reps, 2 sets
+4. Single Arm Rows, 8 - 13 reps, 3 sets
+5. Pull-Ups, 8 - 13 reps, 2 sets
+
+**Day 3: Legs**
+1. Bodyweight Squats, 10 - 14 reps, 3 sets
+2. Goblet Squats, 5 - 7 reps, 3 sets
+3. Hamstring Curls, 5 - 9 reps, 3 sets
+4. Glute Bridges, 10 - 13 reps, 3 sets
+5. Leg Press, 6 - 9 reps, 4 sets
+6. Leg Extensions, 7 - 12 reps, 4 sets
+7. Standing Calf Raises, 6 - 10 reps, 2 sets
+
+**Day 4: Push**
+1. Pec Deck, 10 - 14 reps, 2 sets
+2. Incline Dumbbell Press, 5 - 7 reps, 3 sets
+3. Overhead Dumbbell Extensions, 6 - 8 reps, 3 sets
+4. Tricep Pushdowns, 10 - 15 reps, 3 sets
+5. Dumbbell Lateral Raises, 6 - 11 reps, 2 sets
+6. Overhead Dumbbell Press, 8 - 13 reps, 2 sets
+7. Barbell Bench Press, 5 - 7 reps, 2 sets
+
+**Day 5: Pull**
+1. Barbell Shrugs, 7 - 11 reps, 2 sets
+2. Seated Cable Rows, 7 - 11 reps, 2 sets
+3. Pull-Ups, 10 - 14 reps, 4 sets
+4. Reverse Pec Deck, 9 - 13 reps, 2 sets
+5. Dumbbell Curls, 10 - 14 reps, 4 sets
+6. Single Arm Rows, 8 - 10 reps, 2 sets
+7. Face Pulls, 7 - 12 reps, 3 sets
+
+**Day 6: Legs**
+1. Bodyweight Squats, 6 - 10 reps, 4 sets
+2. Glute Bridges, 7 - 12 reps, 2 sets
+3. Leg Press, 9 - 12 reps, 3 sets
+4. Leg Extensions, 5 - 8 reps, 2 sets
+5. Hamstring Curls, 6 - 8 reps, 2 sets
+6. Standing Calf Raises, 9 - 14 reps, 4 sets
+
+**Day 7: Rest**
+
+
+### input: give me an Intermediate workout Routine
+#  output :
+**Day 1: Push**
+1. Dumbbell Lateral Raises, 6 - 11 reps, 4 sets
+2. Cable Lateral Raises, 8 - 10 reps, 2 sets
+3. Dumbbell Bench Press, 9 - 14 reps, 4 sets
+4. Dumbbell Pullover, 8 - 11 reps, 4 sets
+5. Incline Barbell Press, 5 - 10 reps, 3 sets
+
+**Day 2: Pull**
+1. Deadlifts, 10 - 15 reps, 4 sets
+2. Pull-Ups, 5 - 10 reps, 4 sets
+3. T-bar Rows, 9 - 12 reps, 4 sets
+4. Bent Over Rows, 8 - 11 reps, 3 sets
+5. Preacher Curls, 10 - 12 reps, 2 sets
+
+**Day 3: Legs**
+1. Squats, 6 - 9 reps, 2 sets
+2. Sitting Calf Raises, 6 - 8 reps, 2 sets
+3. Leg Extensions, 9 - 12 reps, 2 sets
+4. Lunges, 7 - 9 reps, 3 sets
+5. Romanian Deadlift, 8 - 12 reps, 3 sets
+6. Leg Press, 5 - 10 reps, 3 sets
+
+**Day 4: Push**
+1. Dumbbell Pullover, 7 - 12 reps, 3 sets
+2. Military Press, 7 - 10 reps, 2 sets
+3. Tricep Pushdowns, 7 - 11 reps, 3 sets
+4. Skull Crushers, 7 - 10 reps, 2 sets
+5. Cable Lateral Raises, 9 - 14 reps, 3 sets
+6. Dumbbell Bench Press, 6 - 11 reps, 3 sets
+
+**Day 5: Pull**
+1. Cable Curls, 6 - 9 reps, 2 sets
+2. Rear Delt Flyes, 5 - 7 reps, 2 sets
+3. Preacher Curls, 6 - 8 reps, 2 sets
+4. T-bar Rows, 8 - 13 reps, 4 sets
+5. Reverse Curls, 9 - 14 reps, 4 sets
+
+**Day 6: Legs**
+1. Lunges, 5 - 10 reps, 3 sets
+2. Leg Press, 5 - 8 reps, 3 sets
+3. Squats, 6 - 11 reps, 3 sets
+4. Hamstring Curls, 5 - 8 reps, 4 sets
+5. Leg Extensions, 10 - 13 reps, 2 sets
+6. Romanian Deadlift, 7 - 10 reps, 4 sets
+
+**Day 7: Rest**
+
+
+### give me an Advanced workout Routine 
+# output: 
+**Day 1: Push**
+1. Incline Dumbbell Press, 9 - 14 reps, 4 sets
+2. Skull Crushers, 9 - 11 reps, 2 sets
+3. Chest Flyes, 6 - 11 reps, 4 sets
+4. Cable Lateral Raises, 5 - 8 reps, 3 sets
+5. Dumbbell Bench Press, 10 - 15 reps, 2 sets
+
+**Day 2: Pull**
+1. Face Pulls, 8 - 10 reps, 4 sets
+2. Cable Curls, 6 - 10 reps, 4 sets
+3. Pull-Ups, 9 - 13 reps, 3 sets
+4. Bent Over Rows, 8 - 11 reps, 3 sets
+5. Deadlifts, 6 - 9 reps, 4 sets
+
+**Day 3: Legs**
+1. Bulgarian Split Squats, 10 - 13 reps, 3 sets
+2. Hip Thrust, 9 - 11 reps, 3 sets
+3. Squats, 7 - 11 reps, 4 sets
+4. Leg Extensions, 10 - 14 reps, 4 sets
+5. Standing Calf Raises, 8 - 10 reps, 2 sets
+
+**Day 4: Push**
+1. Skull Crushers, 9 - 14 reps, 3 sets
+2. Dumbbell Lateral Raises, 6 - 10 reps, 4 sets
+3. Tricep Pushdowns, 5 - 8 reps, 2 sets
+4. Incline Dumbbell Press, 10 - 13 reps, 3 sets
+5. Chest Flyes, 9 - 11 reps, 4 sets
+6. Dumbbell Bench Press, 7 - 11 reps, 4 sets
+7. Cable Lateral Raises, 5 - 9 reps, 4 sets
+
+**Day 5: Pull**
+1. Face Pulls, 9 - 13 reps, 2 sets
+2. Cable Curls, 9 - 13 reps, 2 sets
+3. Hammer Curls, 8 - 11 reps, 3 sets
+4. Incline Curls, 8 - 12 reps, 2 sets
+5. Single Arm Pulldowns, 8 - 10 reps, 3 sets
+
+**Day 6: Legs**
+1. Standing Calf Raises, 9 - 14 reps, 4 sets
+2. Hip Thrust, 10 - 13 reps, 3 sets
+3. Squats, 10 - 14 reps, 3 sets
+4. Leg Extensions, 6 - 10 reps, 4 sets
+5. Bulgarian Split Squats, 9 - 11 reps, 2 sets
+
+**Day 7: Rest**
+
+    
+### Input: give me a Beginner workout Routine 
+# output: 
+**Day 1: Push**
+1. Barbell Bench Press, 10 - 13 reps, 2 sets
+2. Overhead Dumbbell Extensions, 10 - 15 reps, 3 sets
+3. Pec Deck, 8 - 13 reps, 4 sets
+4. Overhead Dumbbell Press, 5 - 10 reps, 4 sets
+5. Incline Dumbbell Press, 6 - 10 reps, 2 sets
+6. Dumbbell Lateral Raises, 6 - 8 reps, 3 sets
+7. Tricep Pushdowns, 7 - 10 reps, 3 sets
+
+**Day 2: Pull**
+1. Barbell Shrugs, 7 - 10 reps, 2 sets
+2. Face Pulls, 9 - 11 reps, 2 sets
+3. Seated Cable Rows, 5 - 7 reps, 3 sets
+4. Reverse Pec Deck, 10 - 12 reps, 3 sets
+5. Dumbbell Curls, 5 - 10 reps, 4 sets
+6. Hammer Curls, 7 - 12 reps, 2 sets
+7. Single Arm Rows, 10 - 12 reps, 2 sets
+
+**Day 3: Legs**
+1. Goblet Squats, 6 - 9 reps, 3 sets
+2. Standing Calf Raises, 10 - 15 reps, 3 sets
+3. Leg Extensions, 10 - 15 reps, 2 sets
+4. Hamstring Curls, 8 - 11 reps, 2 sets
+5. Leg Press, 5 - 8 reps, 2 sets
+
+**Day 4: Push**
+1. Overhead Dumbbell Extensions, 9 - 11 reps, 2 sets
+2. Overhead Dumbbell Press, 6 - 10 reps, 2 sets
+3. Incline Dumbbell Press, 6 - 9 reps, 2 sets
+4. Barbell Bench Press, 9 - 13 reps, 3 sets
+5. Dumbbell Lateral Raises, 5 - 9 reps, 4 sets
+
+**Day 5: Pull**
+1. Barbell Shrugs, 7 - 11 reps, 2 sets
+2. Hammer Curls, 9 - 12 reps, 3 sets
+3. Dumbbell Curls, 10 - 14 reps, 3 sets
+4. Reverse Pec Deck, 6 - 11 reps, 3 sets
+5. Seated Cable Rows, 7 - 10 reps, 4 sets
+6. Single Arm Rows, 5 - 7 reps, 3 sets
+
+**Day 6: Legs**
+1. Standing Calf Raises, 8 - 11 reps, 3 sets
+2. Glute Bridges, 5 - 9 reps, 3 sets
+3. Hamstring Curls, 6 - 10 reps, 2 sets
+4. Goblet Squats, 10 - 12 reps, 3 sets
+5. Leg Extensions, 10 - 12 reps, 4 sets
+6. Bodyweight Squats, 10 - 13 reps, 3 sets
+
+**Day 7: Rest**
+
+
+### input: give me an Intermediate workout Routine
+#  output :
+**Day 1: Push**
+1. Tricep Pushdowns, 10 - 15 reps, 3 sets
+2. Military Press, 10 - 12 reps, 4 sets
+3. Incline Barbell Press, 9 - 12 reps, 2 sets
+4. Dumbbell Lateral Raises, 6 - 8 reps, 3 sets
+5. Dumbbell Pullover, 6 - 9 reps, 3 sets
+
+**Day 2: Pull**
+1. Reverse Curls, 10 - 14 reps, 2 sets
+2. Bent Over Rows, 8 - 11 reps, 4 sets
+3. Preacher Curls, 7 - 10 reps, 4 sets
+4. Rear Delt Flyes, 6 - 10 reps, 4 sets
+5. Face Pulls, 7 - 11 reps, 4 sets
+6. T-bar Rows, 7 - 9 reps, 2 sets
+7. Cable Curls, 9 - 13 reps, 3 sets
+
+**Day 3: Legs**
+1. Leg Press, 10 - 13 reps, 3 sets
+2. Romanian Deadlift, 9 - 14 reps, 4 sets
+3. Lunges, 5 - 10 reps, 2 sets
+4. Hamstring Curls, 7 - 10 reps, 2 sets
+5. Leg Extensions, 5 - 8 reps, 4 sets
+6. Sitting Calf Raises, 10 - 14 reps, 4 sets
+
+**Day 4: Push**
+1. Dumbbell Bench Press, 6 - 11 reps, 4 sets
+2. Cable Lateral Raises, 10 - 13 reps, 4 sets
+3. Tricep Pushdowns, 7 - 9 reps, 2 sets
+4. Military Press, 10 - 15 reps, 2 sets
+5. Dumbbell Pullover, 8 - 13 reps, 2 sets
+6. Dumbbell Lateral Raises, 7 - 9 reps, 2 sets
+7. Incline Barbell Press, 7 - 10 reps, 3 sets
+
+**Day 5: Pull**
+1. T-bar Rows, 9 - 13 reps, 4 sets
+2. Reverse Curls, 8 - 10 reps, 4 sets
+3. Deadlifts, 6 - 10 reps, 3 sets
+4. Rear Delt Flyes, 6 - 10 reps, 4 sets
+5. Face Pulls, 10 - 12 reps, 3 sets
+6. Cable Curls, 10 - 14 reps, 3 sets
+
+**Day 6: Legs**
+1. Hamstring Curls, 9 - 13 reps, 3 sets
+2. Leg Press, 10 - 12 reps, 2 sets
+3. Sitting Calf Raises, 7 - 11 reps, 4 sets
+4. Romanian Deadlift, 10 - 14 reps, 2 sets
+5. Lunges, 7 - 12 reps, 4 sets
+6. Leg Extensions, 6 - 9 reps, 4 sets
+7. Squats, 6 - 8 reps, 3 sets
+
+**Day 7: Rest**
+
+
+### give me an Advanced workout Routine 
+# output: 
+**Day 1: Push**
+1. Military Press, 8 - 10 reps, 4 sets
+2. Dumbbell Lateral Raises, 8 - 12 reps, 2 sets
+3. Skull Crushers, 9 - 12 reps, 2 sets
+4. Cable Lateral Raises, 8 - 13 reps, 3 sets
+5. Dumbbell Bench Press, 9 - 12 reps, 2 sets
+6. Chest Flyes, 5 - 7 reps, 2 sets
+
+**Day 2: Pull**
+1. Face Pulls, 10 - 13 reps, 3 sets
+2. Bent Over Rows, 6 - 8 reps, 3 sets
+3. Single Arm Pulldowns, 10 - 14 reps, 2 sets
+4. Cable Curls, 5 - 9 reps, 4 sets
+5. Pull-Ups, 5 - 7 reps, 4 sets
+6. Deadlifts, 10 - 12 reps, 3 sets
+7. Hammer Curls, 6 - 10 reps, 3 sets
+
+**Day 3: Legs**
+1. Squats, 6 - 10 reps, 4 sets
+2. Standing Calf Raises, 5 - 7 reps, 2 sets
+3. Sitting Calf RaisesSitting Hamstring Curls, 10 - 13 reps, 4 sets
+4. Hip Thrust, 10 - 14 reps, 4 sets
+5. Bulgarian Split Squats, 8 - 10 reps, 3 sets
+6. Leg Extensions, 9 - 13 reps, 2 sets
+
+**Day 4: Push**
+1. Dumbbell Lateral Raises, 8 - 11 reps, 2 sets
+2. Dumbbell Bench Press, 10 - 12 reps, 3 sets
+3. Military Press, 9 - 11 reps, 4 sets
+4. Incline Dumbbell Press, 10 - 14 reps, 4 sets
+5. Cable Lateral Raises, 8 - 13 reps, 3 sets
+6. Tricep Pushdowns, 8 - 13 reps, 4 sets
+
+**Day 5: Pull**
+1. Hammer Curls, 9 - 11 reps, 2 sets
+2. Pull-Ups, 5 - 9 reps, 2 sets
+3. Bent Over Rows, 9 - 12 reps, 2 sets
+4. Single Arm Pulldowns, 8 - 12 reps, 3 sets
+5. Cable Curls, 5 - 9 reps, 2 sets
+6. Deadlifts, 9 - 14 reps, 2 sets
+
+**Day 6: Legs**
+1. Leg Extensions, 6 - 8 reps, 2 sets
+2. Bulgarian Split Squats, 6 - 9 reps, 4 sets
+3. Hip Thrust, 5 - 10 reps, 3 sets
+4. Sitting Calf RaisesSitting Hamstring Curls, 7 - 9 reps, 3 sets
+5. Squats, 10 - 13 reps, 3 sets
+
+**Day 7: Rest**
+
+    
+### Input: give me a Beginner workout Routine 
+# output: 
+**Day 1: Push**
+1. Overhead Dumbbell Extensions, 10 - 12 reps, 2 sets
+2. Barbell Bench Press, 9 - 13 reps, 2 sets
+3. Tricep Pushdowns, 5 - 8 reps, 3 sets
+4. Pec Deck, 8 - 10 reps, 4 sets
+5. Dumbbell Lateral Raises, 5 - 8 reps, 4 sets
+6. Incline Dumbbell Press, 9 - 13 reps, 2 sets
+7. Overhead Dumbbell Press, 10 - 13 reps, 3 sets
+
+**Day 2: Pull**
+1. Hammer Curls, 6 - 11 reps, 4 sets
+2. Face Pulls, 8 - 11 reps, 3 sets
+3. Reverse Pec Deck, 7 - 12 reps, 3 sets
+4. Seated Cable Rows, 8 - 11 reps, 3 sets
+5. Dumbbell Curls, 5 - 7 reps, 3 sets
+
+**Day 3: Legs**
+1. Standing Calf Raises, 7 - 10 reps, 3 sets
+2. Goblet Squats, 7 - 11 reps, 2 sets
+3. Bodyweight Squats, 10 - 15 reps, 3 sets
+4. Leg Extensions, 8 - 11 reps, 4 sets
+5. Leg Press, 9 - 12 reps, 2 sets
+6. Hamstring Curls, 10 - 13 reps, 2 sets
+7. Glute Bridges, 10 - 14 reps, 4 sets
+
+**Day 4: Push**
+1. Overhead Dumbbell Extensions, 9 - 11 reps, 4 sets
+2. Incline Dumbbell Press, 7 - 10 reps, 2 sets
+3. Overhead Dumbbell Press, 7 - 9 reps, 2 sets
+4. Dumbbell Lateral Raises, 10 - 15 reps, 3 sets
+5. Barbell Bench Press, 10 - 12 reps, 2 sets
+
+**Day 5: Pull**
+1. Face Pulls, 8 - 11 reps, 4 sets
+2. Single Arm Rows, 6 - 10 reps, 2 sets
+3. Seated Cable Rows, 6 - 8 reps, 4 sets
+4. Dumbbell Curls, 10 - 13 reps, 2 sets
+5. Pull-Ups, 5 - 10 reps, 4 sets
+6. Reverse Pec Deck, 9 - 12 reps, 2 sets
+
+**Day 6: Legs**
+1. Glute Bridges, 5 - 9 reps, 2 sets
+2. Leg Extensions, 5 - 9 reps, 2 sets
+3. Bodyweight Squats, 9 - 13 reps, 4 sets
+4. Goblet Squats, 6 - 8 reps, 3 sets
+5. Hamstring Curls, 10 - 15 reps, 2 sets
+6. Standing Calf Raises, 10 - 14 reps, 4 sets
+7. Leg Press, 5 - 7 reps, 3 sets
+
+**Day 7: Rest**
+
+
+### input: give me an Intermediate workout Routine
+#  output :
+**Day 1: Push**
+1. Tricep Pushdowns, 5 - 7 reps, 2 sets
+2. Dumbbell Lateral Raises, 10 - 15 reps, 3 sets
+3. Military Press, 9 - 13 reps, 3 sets
+4. Skull Crushers, 9 - 11 reps, 2 sets
+5. Dumbbell Pullover, 7 - 11 reps, 2 sets
+
+**Day 2: Pull**
+1. Pull-Ups, 8 - 12 reps, 2 sets
+2. Deadlifts, 10 - 15 reps, 4 sets
+3. Preacher Curls, 10 - 14 reps, 2 sets
+4. Reverse Curls, 9 - 11 reps, 2 sets
+5. Rear Delt Flyes, 5 - 7 reps, 3 sets
+6. T-bar Rows, 10 - 12 reps, 4 sets
+7. Bent Over Rows, 5 - 9 reps, 2 sets
+
+**Day 3: Legs**
+1. Leg Extensions, 10 - 12 reps, 2 sets
+2. Sitting Calf Raises, 9 - 14 reps, 3 sets
+3. Romanian Deadlift, 6 - 9 reps, 4 sets
+4. Squats, 6 - 10 reps, 3 sets
+5. Lunges, 10 - 15 reps, 4 sets
+6. Leg Press, 6 - 10 reps, 2 sets
+7. Hamstring Curls, 7 - 12 reps, 4 sets
+
+**Day 4: Push**
+1. Dumbbell Bench Press, 10 - 14 reps, 4 sets
+2. Skull Crushers, 9 - 13 reps, 2 sets
+3. Military Press, 7 - 9 reps, 2 sets
+4. Incline Barbell Press, 9 - 11 reps, 4 sets
+5. Dumbbell Lateral Raises, 8 - 12 reps, 3 sets
+6. Tricep Pushdowns, 7 - 11 reps, 4 sets
+
+**Day 5: Pull**
+1. Face Pulls, 10 - 14 reps, 2 sets
+2. Cable Curls, 8 - 13 reps, 4 sets
+3. Deadlifts, 8 - 10 reps, 3 sets
+4. Reverse Curls, 6 - 10 reps, 2 sets
+5. Bent Over Rows, 7 - 11 reps, 4 sets
+6. Preacher Curls, 5 - 10 reps, 2 sets
+7. T-bar Rows, 9 - 14 reps, 3 sets
+
+**Day 6: Legs**
+1. Hamstring Curls, 5 - 7 reps, 2 sets
+2. Leg Press, 9 - 12 reps, 2 sets
+3. Romanian Deadlift, 5 - 7 reps, 4 sets
+4. Leg Extensions, 6 - 9 reps, 4 sets
+5. Squats, 7 - 10 reps, 2 sets
+6. Sitting Calf Raises, 8 - 13 reps, 2 sets
+7. Lunges, 7 - 12 reps, 2 sets
+
+**Day 7: Rest**
+
+
+### give me an Advanced workout Routine 
+# output: 
+**Day 1: Push**
+1. Chest Flyes, 6 - 11 reps, 4 sets
+2. Dumbbell Bench Press, 7 - 9 reps, 2 sets
+3. Cable Lateral Raises, 7 - 12 reps, 3 sets
+4. Incline Dumbbell Press, 7 - 10 reps, 2 sets
+5. Tricep Pushdowns, 7 - 12 reps, 4 sets
+6. Skull Crushers, 7 - 10 reps, 4 sets
+7. Military Press, 9 - 13 reps, 4 sets
+
+**Day 2: Pull**
+1. Single Arm Pulldowns, 9 - 12 reps, 2 sets
+2. Deadlifts, 7 - 11 reps, 4 sets
+3. Bent Over Rows, 10 - 13 reps, 3 sets
+4. Pull-Ups, 10 - 13 reps, 4 sets
+5. Hammer Curls, 7 - 9 reps, 4 sets
+
+**Day 3: Legs**
+1. Hip Thrust, 8 - 10 reps, 4 sets
+2. Sitting Calf RaisesSitting Hamstring Curls, 6 - 8 reps, 3 sets
+3. Standing Calf Raises, 10 - 12 reps, 4 sets
+4. Bulgarian Split Squats, 5 - 8 reps, 3 sets
+5. Squats, 5 - 10 reps, 4 sets
+
+**Day 4: Push**
+1. Tricep Pushdowns, 6 - 10 reps, 2 sets
+2. Military Press, 9 - 13 reps, 3 sets
+3. Cable Lateral Raises, 6 - 8 reps, 3 sets
+4. Skull Crushers, 7 - 9 reps, 4 sets
+5. Incline Dumbbell Press, 8 - 13 reps, 4 sets
+6. Dumbbell Lateral Raises, 7 - 12 reps, 4 sets
+7. Chest Flyes, 5 - 10 reps, 4 sets
+
+**Day 5: Pull**
+1. Incline Curls, 5 - 7 reps, 4 sets
+2. Cable Curls, 9 - 11 reps, 3 sets
+3. Hammer Curls, 8 - 13 reps, 4 sets
+4. Bent Over Rows, 8 - 12 reps, 3 sets
+5. Face Pulls, 7 - 9 reps, 3 sets
+6. Single Arm Pulldowns, 6 - 8 reps, 3 sets
+
+**Day 6: Legs**
+1. Bulgarian Split Squats, 9 - 12 reps, 2 sets
+2. Sitting Calf RaisesSitting Hamstring Curls, 6 - 9 reps, 3 sets
+3. Squats, 10 - 12 reps, 2 sets
+4. Leg Extensions, 9 - 14 reps, 2 sets
+5. Hip Thrust, 7 - 9 reps, 4 sets
+6. Standing Calf Raises, 7 - 9 reps, 3 sets
+
+**Day 7: Rest**
+
+    
+### Input: give me a Beginner workout Routine 
+# output: 
+**Day 1: Push**
+1. Overhead Dumbbell Extensions, 7 - 9 reps, 2 sets
+2. Overhead Dumbbell Press, 6 - 10 reps, 2 sets
+3. Barbell Bench Press, 10 - 13 reps, 4 sets
+4. Incline Dumbbell Press, 6 - 11 reps, 3 sets
+5. Dumbbell Lateral Raises, 8 - 13 reps, 3 sets
+
+**Day 2: Pull**
+1. Hammer Curls, 5 - 8 reps, 2 sets
+2. Reverse Pec Deck, 6 - 8 reps, 3 sets
+3. Dumbbell Curls, 6 - 8 reps, 3 sets
+4. Barbell Shrugs, 5 - 7 reps, 2 sets
+5. Pull-Ups, 8 - 13 reps, 4 sets
+6. Seated Cable Rows, 10 - 15 reps, 2 sets
+
+**Day 3: Legs**
+1. Goblet Squats, 10 - 12 reps, 3 sets
+2. Glute Bridges, 10 - 15 reps, 3 sets
+3. Bodyweight Squats, 8 - 11 reps, 3 sets
+4. Leg Extensions, 5 - 8 reps, 3 sets
+5. Leg Press, 8 - 13 reps, 3 sets
+
+**Day 4: Push**
+1. Tricep Pushdowns, 7 - 9 reps, 2 sets
+2. Pec Deck, 10 - 14 reps, 3 sets
+3. Incline Dumbbell Press, 5 - 8 reps, 2 sets
+4. Barbell Bench Press, 5 - 8 reps, 4 sets
+5. Overhead Dumbbell Extensions, 10 - 12 reps, 3 sets
+6. Overhead Dumbbell Press, 5 - 10 reps, 4 sets
+
+**Day 5: Pull**
+1. Face Pulls, 10 - 14 reps, 4 sets
+2. Reverse Pec Deck, 8 - 11 reps, 4 sets
+3. Dumbbell Curls, 9 - 13 reps, 3 sets
+4. Hammer Curls, 5 - 8 reps, 4 sets
+5. Pull-Ups, 5 - 7 reps, 2 sets
+6. Barbell Shrugs, 10 - 13 reps, 2 sets
+
+**Day 6: Legs**
+1. Goblet Squats, 5 - 8 reps, 4 sets
+2. Standing Calf Raises, 6 - 9 reps, 3 sets
+3. Leg Press, 5 - 9 reps, 4 sets
+4. Bodyweight Squats, 5 - 10 reps, 3 sets
+5. Leg Extensions, 7 - 10 reps, 3 sets
+6. Glute Bridges, 10 - 14 reps, 2 sets
+7. Hamstring Curls, 8 - 10 reps, 3 sets
+
+**Day 7: Rest**
+
+
+### input: give me an Intermediate workout Routine
+#  output :
+**Day 1: Push**
+1. Dumbbell Pullover, 6 - 11 reps, 2 sets
+2. Dumbbell Bench Press, 7 - 12 reps, 3 sets
+3. Military Press, 6 - 10 reps, 3 sets
+4. Tricep Pushdowns, 8 - 11 reps, 2 sets
+5. Cable Lateral Raises, 9 - 11 reps, 4 sets
+6. Skull Crushers, 7 - 10 reps, 3 sets
+7. Dumbbell Lateral Raises, 7 - 10 reps, 3 sets
+
+**Day 2: Pull**
+1. Face Pulls, 9 - 12 reps, 2 sets
+2. Deadlifts, 7 - 9 reps, 4 sets
+3. Pull-Ups, 10 - 12 reps, 2 sets
+4. Reverse Curls, 8 - 12 reps, 2 sets
+5. Preacher Curls, 9 - 14 reps, 2 sets
+6. T-bar Rows, 6 - 8 reps, 3 sets
+7. Rear Delt Flyes, 8 - 13 reps, 4 sets
+
+**Day 3: Legs**
+1. Hamstring Curls, 5 - 9 reps, 3 sets
+2. Squats, 8 - 13 reps, 2 sets
+3. Sitting Calf Raises, 6 - 11 reps, 4 sets
+4. Leg Press, 5 - 10 reps, 3 sets
+5. Romanian Deadlift, 5 - 10 reps, 3 sets
+6. Lunges, 6 - 8 reps, 4 sets
+7. Leg Extensions, 9 - 12 reps, 2 sets
+
+**Day 4: Push**
+1. Dumbbell Lateral Raises, 9 - 12 reps, 3 sets
+2. Skull Crushers, 9 - 11 reps, 4 sets
+3. Tricep Pushdowns, 9 - 11 reps, 3 sets
+4. Cable Lateral Raises, 9 - 11 reps, 2 sets
+5. Incline Barbell Press, 10 - 14 reps, 2 sets
+6. Dumbbell Pullover, 5 - 7 reps, 3 sets
+7. Dumbbell Bench Press, 6 - 9 reps, 3 sets
+
+**Day 5: Pull**
+1. Bent Over Rows, 6 - 9 reps, 4 sets
+2. Reverse Curls, 8 - 11 reps, 2 sets
+3. Rear Delt Flyes, 8 - 10 reps, 2 sets
+4. T-bar Rows, 8 - 11 reps, 2 sets
+5. Face Pulls, 6 - 10 reps, 3 sets
+6. Deadlifts, 6 - 8 reps, 3 sets
+
+**Day 6: Legs**
+1. Romanian Deadlift, 8 - 12 reps, 2 sets
+2. Leg Extensions, 10 - 14 reps, 2 sets
+3. Lunges, 9 - 12 reps, 3 sets
+4. Sitting Calf Raises, 8 - 12 reps, 3 sets
+5. Squats, 6 - 8 reps, 4 sets
+6. Leg Press, 10 - 12 reps, 2 sets
+7. Hamstring Curls, 5 - 9 reps, 4 sets
+
+**Day 7: Rest**
+
+
+### give me an Advanced workout Routine 
+# output: 
+**Day 1: Push**
+1. Tricep Pushdowns, 6 - 9 reps, 4 sets
+2. Dumbbell Lateral Raises, 7 - 9 reps, 3 sets
+3. Skull Crushers, 7 - 11 reps, 2 sets
+4. Cable Lateral Raises, 7 - 10 reps, 3 sets
+5. Military Press, 9 - 11 reps, 2 sets
+6. Chest Flyes, 9 - 14 reps, 4 sets
+
+**Day 2: Pull**
+1. Single Arm Pulldowns, 10 - 14 reps, 4 sets
+2. Hammer Curls, 8 - 12 reps, 3 sets
+3. Face Pulls, 8 - 10 reps, 3 sets
+4. Deadlifts, 5 - 9 reps, 3 sets
+5. Incline Curls, 9 - 11 reps, 3 sets
+6. Bent Over Rows, 9 - 13 reps, 3 sets
+
+**Day 3: Legs**
+1. Sitting Calf RaisesSitting Hamstring Curls, 6 - 11 reps, 3 sets
+2. Hip Thrust, 7 - 11 reps, 3 sets
+3. Leg Extensions, 7 - 12 reps, 3 sets
+4. Squats, 9 - 13 reps, 3 sets
+5. Bulgarian Split Squats, 7 - 9 reps, 4 sets
+
+**Day 4: Push**
+1. Cable Lateral Raises, 10 - 13 reps, 4 sets
+2. Dumbbell Bench Press, 5 - 9 reps, 3 sets
+3. Tricep Pushdowns, 5 - 9 reps, 4 sets
+4. Incline Dumbbell Press, 8 - 11 reps, 4 sets
+5. Chest Flyes, 6 - 8 reps, 4 sets
+
+**Day 5: Pull**
+1. Pull-Ups, 8 - 10 reps, 2 sets
+2. Deadlifts, 10 - 14 reps, 4 sets
+3. Incline Curls, 8 - 13 reps, 3 sets
+4. Cable Curls, 10 - 14 reps, 2 sets
+5. Bent Over Rows, 6 - 8 reps, 2 sets
+6. Face Pulls, 9 - 14 reps, 2 sets
+7. Hammer Curls, 7 - 11 reps, 3 sets
+
+**Day 6: Legs**
+1. Squats, 9 - 13 reps, 4 sets
+2. Standing Calf Raises, 10 - 15 reps, 2 sets
+3. Sitting Calf RaisesSitting Hamstring Curls, 9 - 12 reps, 2 sets
+4. Leg Extensions, 10 - 13 reps, 4 sets
+5. Bulgarian Split Squats, 5 - 7 reps, 2 sets
+
+**Day 7: Rest**
+
+    
+### Input: give me a Beginner workout Routine 
+# output: 
+**Day 1: Push**
+1. Overhead Dumbbell Extensions, 6 - 8 reps, 4 sets
+2. Incline Dumbbell Press, 8 - 11 reps, 3 sets
+3. Barbell Bench Press, 5 - 9 reps, 4 sets
+4. Overhead Dumbbell Press, 6 - 11 reps, 4 sets
+5. Tricep Pushdowns, 7 - 9 reps, 4 sets
+
+**Day 2: Pull**
+1. Barbell Shrugs, 9 - 14 reps, 3 sets
+2. Single Arm Rows, 10 - 14 reps, 2 sets
+3. Hammer Curls, 9 - 12 reps, 3 sets
+4. Face Pulls, 10 - 14 reps, 3 sets
+5. Seated Cable Rows, 8 - 13 reps, 2 sets
+6. Reverse Pec Deck, 7 - 9 reps, 3 sets
+7. Dumbbell Curls, 7 - 11 reps, 2 sets
+
+**Day 3: Legs**
+1. Leg Extensions, 7 - 10 reps, 4 sets
+2. Hamstring Curls, 9 - 13 reps, 3 sets
+3. Glute Bridges, 9 - 14 reps, 4 sets
+4. Leg Press, 5 - 7 reps, 2 sets
+5. Goblet Squats, 9 - 11 reps, 3 sets
+6. Standing Calf Raises, 10 - 13 reps, 4 sets
+
+**Day 4: Push**
+1. Overhead Dumbbell Press, 10 - 13 reps, 4 sets
+2. Pec Deck, 7 - 10 reps, 3 sets
+3. Tricep Pushdowns, 5 - 7 reps, 3 sets
+4. Barbell Bench Press, 8 - 13 reps, 3 sets
+5. Overhead Dumbbell Extensions, 9 - 13 reps, 4 sets
+6. Dumbbell Lateral Raises, 10 - 15 reps, 2 sets
+7. Incline Dumbbell Press, 5 - 9 reps, 3 sets
+
+**Day 5: Pull**
+1. Pull-Ups, 8 - 11 reps, 2 sets
+2. Seated Cable Rows, 6 - 11 reps, 2 sets
+3. Reverse Pec Deck, 8 - 12 reps, 2 sets
+4. Single Arm Rows, 10 - 14 reps, 4 sets
+5. Hammer Curls, 8 - 11 reps, 2 sets
+
+**Day 6: Legs**
+1. Glute Bridges, 7 - 11 reps, 2 sets
+2. Leg Press, 8 - 11 reps, 2 sets
+3. Hamstring Curls, 10 - 12 reps, 3 sets
+4. Leg Extensions, 5 - 10 reps, 4 sets
+5. Goblet Squats, 6 - 9 reps, 4 sets
+
+**Day 7: Rest**
+
+
+### input: give me an Intermediate workout Routine
+#  output :
+**Day 1: Push**
+1. Military Press, 5 - 9 reps, 4 sets
+2. Incline Barbell Press, 10 - 14 reps, 3 sets
+3. Cable Lateral Raises, 9 - 11 reps, 3 sets
+4. Dumbbell Bench Press, 9 - 11 reps, 4 sets
+5. Skull Crushers, 6 - 10 reps, 4 sets
+
+**Day 2: Pull**
+1. Face Pulls, 10 - 12 reps, 3 sets
+2. Cable Curls, 10 - 12 reps, 4 sets
+3. Deadlifts, 10 - 12 reps, 2 sets
+4. Bent Over Rows, 5 - 7 reps, 2 sets
+5. T-bar Rows, 7 - 11 reps, 4 sets
+6. Rear Delt Flyes, 9 - 13 reps, 3 sets
+
+**Day 3: Legs**
+1. Squats, 6 - 8 reps, 4 sets
+2. Lunges, 5 - 10 reps, 4 sets
+3. Sitting Calf Raises, 6 - 9 reps, 4 sets
+4. Leg Extensions, 10 - 15 reps, 4 sets
+5. Leg Press, 10 - 12 reps, 4 sets
+6. Romanian Deadlift, 6 - 10 reps, 4 sets
+
+**Day 4: Push**
+1. Dumbbell Pullover, 10 - 13 reps, 4 sets
+2. Military Press, 7 - 9 reps, 2 sets
+3. Incline Barbell Press, 7 - 12 reps, 4 sets
+4. Dumbbell Lateral Raises, 5 - 10 reps, 2 sets
+5. Tricep Pushdowns, 7 - 11 reps, 2 sets
+
+**Day 5: Pull**
+1. T-bar Rows, 6 - 8 reps, 4 sets
+2. Pull-Ups, 7 - 12 reps, 4 sets
+3. Cable Curls, 5 - 7 reps, 4 sets
+4. Preacher Curls, 9 - 14 reps, 4 sets
+5. Bent Over Rows, 10 - 12 reps, 2 sets
+6. Deadlifts, 7 - 9 reps, 4 sets
+7. Face Pulls, 7 - 11 reps, 4 sets
+
+**Day 6: Legs**
+1. Hamstring Curls, 9 - 13 reps, 2 sets
+2. Squats, 6 - 11 reps, 4 sets
+3. Leg Extensions, 8 - 13 reps, 4 sets
+4. Romanian Deadlift, 10 - 15 reps, 4 sets
+5. Lunges, 8 - 12 reps, 4 sets
+
+**Day 7: Rest**
+
+
+### give me an Advanced workout Routine 
+# output: 
+**Day 1: Push**
+1. Cable Lateral Raises, 8 - 11 reps, 4 sets
+2. Skull Crushers, 10 - 13 reps, 4 sets
+3. Military Press, 8 - 12 reps, 4 sets
+4. Tricep Pushdowns, 10 - 12 reps, 4 sets
+5. Dumbbell Bench Press, 5 - 9 reps, 3 sets
+
+**Day 2: Pull**
+1. Single Arm Pulldowns, 5 - 8 reps, 3 sets
+2. Bent Over Rows, 10 - 12 reps, 4 sets
+3. Face Pulls, 9 - 14 reps, 4 sets
+4. Incline Curls, 8 - 13 reps, 2 sets
+5. Deadlifts, 9 - 13 reps, 4 sets
+6. Hammer Curls, 6 - 11 reps, 3 sets
+
+**Day 3: Legs**
+1. Sitting Calf RaisesSitting Hamstring Curls, 8 - 12 reps, 4 sets
+2. Bulgarian Split Squats, 6 - 9 reps, 3 sets
+3. Standing Calf Raises, 8 - 11 reps, 3 sets
+4. Hip Thrust, 6 - 11 reps, 3 sets
+5. Squats, 8 - 10 reps, 2 sets
+6. Leg Extensions, 9 - 12 reps, 2 sets
+
+**Day 4: Push**
+1. Cable Lateral Raises, 6 - 10 reps, 3 sets
+2. Chest Flyes, 5 - 9 reps, 3 sets
+3. Tricep Pushdowns, 9 - 12 reps, 4 sets
+4. Skull Crushers, 8 - 11 reps, 4 sets
+5. Dumbbell Bench Press, 10 - 13 reps, 3 sets
+6. Military Press, 5 - 10 reps, 3 sets
+
+**Day 5: Pull**
+1. Pull-Ups, 8 - 10 reps, 2 sets
+2. Cable Curls, 9 - 12 reps, 2 sets
+3. Hammer Curls, 6 - 8 reps, 4 sets
+4. Single Arm Pulldowns, 9 - 14 reps, 4 sets
+5. Incline Curls, 10 - 13 reps, 2 sets
+6. Bent Over Rows, 8 - 10 reps, 3 sets
+7. Deadlifts, 7 - 11 reps, 3 sets
+
+**Day 6: Legs**
+1. Sitting Calf RaisesSitting Hamstring Curls, 10 - 15 reps, 2 sets
+2. Hip Thrust, 6 - 10 reps, 4 sets
+3. Standing Calf Raises, 5 - 9 reps, 3 sets
+4. Leg Extensions, 9 - 14 reps, 4 sets
+5. Bulgarian Split Squats, 10 - 12 reps, 4 sets
+
+**Day 7: Rest**
+
+    
+### Input: give me a Beginner workout Routine 
+# output: 
+**Day 1: Push**
+1. Overhead Dumbbell Extensions, 6 - 8 reps, 3 sets
+2. Pec Deck, 8 - 10 reps, 4 sets
+3. Barbell Bench Press, 7 - 9 reps, 2 sets
+4. Tricep Pushdowns, 10 - 12 reps, 2 sets
+5. Dumbbell Lateral Raises, 8 - 13 reps, 3 sets
+6. Incline Dumbbell Press, 6 - 11 reps, 2 sets
+7. Overhead Dumbbell Press, 5 - 9 reps, 3 sets
+
+**Day 2: Pull**
+1. Reverse Pec Deck, 8 - 12 reps, 3 sets
+2. Barbell Shrugs, 5 - 8 reps, 4 sets
+3. Dumbbell Curls, 6 - 8 reps, 3 sets
+4. Hammer Curls, 6 - 11 reps, 3 sets
+5. Seated Cable Rows, 5 - 8 reps, 3 sets
+6. Face Pulls, 6 - 11 reps, 3 sets
+
+**Day 3: Legs**
+1. Bodyweight Squats, 9 - 11 reps, 2 sets
+2. Standing Calf Raises, 7 - 9 reps, 3 sets
+3. Goblet Squats, 7 - 10 reps, 2 sets
+4. Glute Bridges, 7 - 11 reps, 2 sets
+5. Leg Extensions, 10 - 13 reps, 2 sets
+6. Hamstring Curls, 6 - 11 reps, 4 sets
+7. Leg Press, 9 - 14 reps, 2 sets
+
+**Day 4: Push**
+1. Pec Deck, 5 - 8 reps, 3 sets
+2. Barbell Bench Press, 9 - 14 reps, 3 sets
+3. Incline Dumbbell Press, 8 - 10 reps, 3 sets
+4. Tricep Pushdowns, 5 - 7 reps, 2 sets
+5. Overhead Dumbbell Press, 10 - 12 reps, 4 sets
+6. Dumbbell Lateral Raises, 10 - 13 reps, 4 sets
+7. Overhead Dumbbell Extensions, 10 - 14 reps, 2 sets
+
+**Day 5: Pull**
+1. Face Pulls, 7 - 9 reps, 2 sets
+2. Reverse Pec Deck, 8 - 12 reps, 3 sets
+3. Single Arm Rows, 9 - 11 reps, 4 sets
+4. Barbell Shrugs, 5 - 9 reps, 4 sets
+5. Hammer Curls, 8 - 12 reps, 4 sets
+6. Dumbbell Curls, 7 - 11 reps, 3 sets
+7. Pull-Ups, 7 - 10 reps, 3 sets
+
+**Day 6: Legs**
+1. Leg Extensions, 7 - 11 reps, 2 sets
+2. Bodyweight Squats, 5 - 10 reps, 4 sets
+3. Goblet Squats, 7 - 9 reps, 3 sets
+4. Glute Bridges, 9 - 14 reps, 2 sets
+5. Standing Calf Raises, 8 - 12 reps, 3 sets
+
+**Day 7: Rest**
+
+
+### input: give me an Intermediate workout Routine
+#  output :
+**Day 1: Push**
+1. Cable Lateral Raises, 7 - 9 reps, 3 sets
+2. Dumbbell Bench Press, 6 - 9 reps, 3 sets
+3. Military Press, 7 - 11 reps, 3 sets
+4. Dumbbell Lateral Raises, 9 - 11 reps, 3 sets
+5. Skull Crushers, 6 - 8 reps, 4 sets
+6. Tricep Pushdowns, 7 - 9 reps, 4 sets
+7. Incline Barbell Press, 8 - 12 reps, 3 sets
+
+**Day 2: Pull**
+1. Reverse Curls, 10 - 13 reps, 3 sets
+2. Bent Over Rows, 9 - 12 reps, 3 sets
+3. T-bar Rows, 7 - 11 reps, 2 sets
+4. Pull-Ups, 7 - 10 reps, 4 sets
+5. Preacher Curls, 7 - 9 reps, 3 sets
+
+**Day 3: Legs**
+1. Squats, 7 - 11 reps, 2 sets
+2. Romanian Deadlift, 7 - 9 reps, 3 sets
+3. Sitting Calf Raises, 9 - 11 reps, 4 sets
+4. Lunges, 6 - 8 reps, 2 sets
+5. Hamstring Curls, 6 - 11 reps, 2 sets
+6. Leg Extensions, 6 - 11 reps, 2 sets
+
+**Day 4: Push**
+1. Skull Crushers, 9 - 12 reps, 4 sets
+2. Tricep Pushdowns, 10 - 13 reps, 4 sets
+3. Incline Barbell Press, 5 - 8 reps, 4 sets
+4. Military Press, 10 - 12 reps, 3 sets
+5. Dumbbell Lateral Raises, 8 - 13 reps, 4 sets
+
+**Day 5: Pull**
+1. Preacher Curls, 9 - 11 reps, 3 sets
+2. Reverse Curls, 9 - 11 reps, 4 sets
+3. Rear Delt Flyes, 5 - 8 reps, 3 sets
+4. Pull-Ups, 7 - 12 reps, 4 sets
+5. Bent Over Rows, 9 - 14 reps, 3 sets
+6. Face Pulls, 5 - 8 reps, 3 sets
+7. Deadlifts, 5 - 8 reps, 3 sets
+
+**Day 6: Legs**
+1. Leg Extensions, 10 - 15 reps, 4 sets
+2. Sitting Calf Raises, 9 - 11 reps, 4 sets
+3. Leg Press, 8 - 13 reps, 4 sets
+4. Romanian Deadlift, 7 - 11 reps, 4 sets
+5. Hamstring Curls, 10 - 15 reps, 4 sets
+
+**Day 7: Rest**
+
+
+### give me an Advanced workout Routine 
+# output: 
+**Day 1: Push**
+1. Cable Lateral Raises, 6 - 8 reps, 4 sets
+2. Dumbbell Bench Press, 6 - 8 reps, 3 sets
+3. Chest Flyes, 7 - 12 reps, 4 sets
+4. Dumbbell Lateral Raises, 9 - 14 reps, 2 sets
+5. Skull Crushers, 8 - 13 reps, 2 sets
+6. Tricep Pushdowns, 9 - 13 reps, 2 sets
+
+**Day 2: Pull**
+1. Incline Curls, 10 - 14 reps, 3 sets
+2. Pull-Ups, 5 - 9 reps, 3 sets
+3. Single Arm Pulldowns, 8 - 12 reps, 4 sets
+4. Deadlifts, 7 - 11 reps, 2 sets
+5. Cable Curls, 5 - 8 reps, 2 sets
+6. Hammer Curls, 10 - 14 reps, 2 sets
+
+**Day 3: Legs**
+1. Bulgarian Split Squats, 8 - 13 reps, 3 sets
+2. Standing Calf Raises, 6 - 9 reps, 2 sets
+3. Squats, 7 - 12 reps, 3 sets
+4. Hip Thrust, 10 - 13 reps, 4 sets
+5. Leg Extensions, 7 - 10 reps, 2 sets
+6. Sitting Calf RaisesSitting Hamstring Curls, 6 - 9 reps, 4 sets
+
+**Day 4: Push**
+1. Skull Crushers, 9 - 14 reps, 4 sets
+2. Incline Dumbbell Press, 5 - 8 reps, 3 sets
+3. Tricep Pushdowns, 7 - 9 reps, 3 sets
+4. Chest Flyes, 5 - 10 reps, 2 sets
+5. Cable Lateral Raises, 7 - 9 reps, 2 sets
+6. Dumbbell Bench Press, 9 - 13 reps, 3 sets
+
+**Day 5: Pull**
+1. Bent Over Rows, 6 - 10 reps, 3 sets
+2. Single Arm Pulldowns, 5 - 7 reps, 3 sets
+3. Deadlifts, 7 - 9 reps, 3 sets
+4. Face Pulls, 8 - 12 reps, 2 sets
+5. Hammer Curls, 9 - 13 reps, 3 sets
+
+**Day 6: Legs**
+1. Sitting Calf RaisesSitting Hamstring Curls, 10 - 15 reps, 4 sets
+2. Squats, 7 - 11 reps, 4 sets
+3. Bulgarian Split Squats, 6 - 11 reps, 4 sets
+4. Hip Thrust, 8 - 11 reps, 4 sets
+5. Standing Calf Raises, 8 - 12 reps, 4 sets
+
+**Day 7: Rest**
+
+    
+### Input: give me a Beginner workout Routine 
+# output: 
+**Day 1: Push**
+1. Pec Deck, 9 - 12 reps, 3 sets
+2. Overhead Dumbbell Press, 6 - 8 reps, 4 sets
+3. Dumbbell Lateral Raises, 7 - 10 reps, 4 sets
+4. Incline Dumbbell Press, 6 - 8 reps, 2 sets
+5. Barbell Bench Press, 9 - 12 reps, 4 sets
+
+**Day 2: Pull**
+1. Dumbbell Curls, 8 - 12 reps, 3 sets
+2. Reverse Pec Deck, 8 - 11 reps, 4 sets
+3. Pull-Ups, 9 - 13 reps, 4 sets
+4. Hammer Curls, 10 - 15 reps, 4 sets
+5. Seated Cable Rows, 6 - 11 reps, 3 sets
+6. Face Pulls, 8 - 10 reps, 4 sets
+
+**Day 3: Legs**
+1. Leg Press, 10 - 14 reps, 3 sets
+2. Goblet Squats, 9 - 12 reps, 3 sets
+3. Hamstring Curls, 9 - 11 reps, 4 sets
+4. Bodyweight Squats, 5 - 8 reps, 2 sets
+5. Glute Bridges, 6 - 11 reps, 3 sets
+6. Standing Calf Raises, 5 - 10 reps, 4 sets
+7. Leg Extensions, 8 - 13 reps, 3 sets
+
+**Day 4: Push**
+1. Incline Dumbbell Press, 8 - 12 reps, 4 sets
+2. Overhead Dumbbell Press, 5 - 7 reps, 4 sets
+3. Pec Deck, 10 - 13 reps, 2 sets
+4. Barbell Bench Press, 5 - 9 reps, 2 sets
+5. Overhead Dumbbell Extensions, 10 - 12 reps, 4 sets
+6. Dumbbell Lateral Raises, 9 - 12 reps, 4 sets
+
+**Day 5: Pull**
+1. Hammer Curls, 5 - 9 reps, 3 sets
+2. Reverse Pec Deck, 5 - 9 reps, 3 sets
+3. Face Pulls, 9 - 12 reps, 2 sets
+4. Seated Cable Rows, 7 - 12 reps, 2 sets
+5. Barbell Shrugs, 5 - 8 reps, 4 sets
+6. Single Arm Rows, 9 - 11 reps, 2 sets
+
+**Day 6: Legs**
+1. Hamstring Curls, 8 - 11 reps, 3 sets
+2. Bodyweight Squats, 6 - 8 reps, 2 sets
+3. Goblet Squats, 5 - 8 reps, 2 sets
+4. Glute Bridges, 5 - 8 reps, 4 sets
+5. Leg Extensions, 5 - 9 reps, 4 sets
+
+**Day 7: Rest**
+
+
+### input: give me an Intermediate workout Routine
+#  output :
+**Day 1: Push**
+1. Tricep Pushdowns, 7 - 11 reps, 2 sets
+2. Skull Crushers, 8 - 12 reps, 3 sets
+3. Dumbbell Pullover, 8 - 11 reps, 3 sets
+4. Military Press, 10 - 14 reps, 4 sets
+5. Incline Barbell Press, 7 - 10 reps, 4 sets
+6. Dumbbell Bench Press, 10 - 15 reps, 2 sets
+7. Cable Lateral Raises, 7 - 9 reps, 2 sets
+
+**Day 2: Pull**
+1. Rear Delt Flyes, 6 - 11 reps, 4 sets
+2. Pull-Ups, 10 - 13 reps, 3 sets
+3. Face Pulls, 6 - 8 reps, 4 sets
+4. Deadlifts, 5 - 9 reps, 2 sets
+5. T-bar Rows, 9 - 14 reps, 4 sets
+
+**Day 3: Legs**
+1. Leg Press, 7 - 9 reps, 2 sets
+2. Leg Extensions, 5 - 7 reps, 3 sets
+3. Squats, 8 - 12 reps, 2 sets
+4. Sitting Calf Raises, 8 - 11 reps, 4 sets
+5. Lunges, 7 - 11 reps, 2 sets
+6. Romanian Deadlift, 10 - 12 reps, 4 sets
+7. Hamstring Curls, 5 - 8 reps, 4 sets
+
+**Day 4: Push**
+1. Cable Lateral Raises, 8 - 13 reps, 3 sets
+2. Dumbbell Bench Press, 10 - 14 reps, 3 sets
+3. Dumbbell Pullover, 6 - 8 reps, 4 sets
+4. Dumbbell Lateral Raises, 7 - 11 reps, 3 sets
+5. Tricep Pushdowns, 6 - 9 reps, 4 sets
+6. Military Press, 7 - 11 reps, 3 sets
+
+**Day 5: Pull**
+1. T-bar Rows, 6 - 8 reps, 2 sets
+2. Pull-Ups, 7 - 12 reps, 4 sets
+3. Preacher Curls, 6 - 10 reps, 2 sets
+4. Rear Delt Flyes, 9 - 11 reps, 2 sets
+5. Reverse Curls, 8 - 12 reps, 4 sets
+6. Deadlifts, 7 - 11 reps, 2 sets
+
+**Day 6: Legs**
+1. Lunges, 9 - 11 reps, 3 sets
+2. Squats, 5 - 10 reps, 2 sets
+3. Leg Press, 5 - 7 reps, 3 sets
+4. Leg Extensions, 8 - 12 reps, 3 sets
+5. Sitting Calf Raises, 6 - 9 reps, 4 sets
+6. Romanian Deadlift, 7 - 12 reps, 3 sets
+7. Hamstring Curls, 8 - 10 reps, 3 sets
+
+**Day 7: Rest**
+
+
+### give me an Advanced workout Routine 
+# output: 
+**Day 1: Push**
+1. Military Press, 8 - 10 reps, 2 sets
+2. Skull Crushers, 8 - 13 reps, 2 sets
+3. Tricep Pushdowns, 7 - 12 reps, 2 sets
+4. Chest Flyes, 8 - 11 reps, 3 sets
+5. Dumbbell Bench Press, 5 - 10 reps, 2 sets
+6. Cable Lateral Raises, 5 - 7 reps, 4 sets
+
+**Day 2: Pull**
+1. Bent Over Rows, 7 - 9 reps, 4 sets
+2. Deadlifts, 7 - 10 reps, 4 sets
+3. Pull-Ups, 5 - 10 reps, 4 sets
+4. Incline Curls, 8 - 12 reps, 4 sets
+5. Cable Curls, 9 - 12 reps, 2 sets
+
+**Day 3: Legs**
+1. Hip Thrust, 10 - 12 reps, 3 sets
+2. Standing Calf Raises, 7 - 11 reps, 4 sets
+3. Squats, 5 - 7 reps, 2 sets
+4. Bulgarian Split Squats, 10 - 15 reps, 3 sets
+5. Sitting Calf RaisesSitting Hamstring Curls, 8 - 12 reps, 3 sets
+6. Leg Extensions, 10 - 14 reps, 3 sets
+
+**Day 4: Push**
+1. Tricep Pushdowns, 5 - 9 reps, 4 sets
+2. Chest Flyes, 9 - 14 reps, 2 sets
+3. Cable Lateral Raises, 7 - 11 reps, 4 sets
+4. Military Press, 8 - 12 reps, 3 sets
+5. Skull Crushers, 6 - 9 reps, 4 sets
+6. Dumbbell Lateral Raises, 5 - 10 reps, 4 sets
+7. Incline Dumbbell Press, 10 - 12 reps, 4 sets
+
+**Day 5: Pull**
+1. Cable Curls, 10 - 13 reps, 3 sets
+2. Bent Over Rows, 6 - 9 reps, 3 sets
+3. Single Arm Pulldowns, 9 - 11 reps, 3 sets
+4. Deadlifts, 10 - 12 reps, 3 sets
+5. Hammer Curls, 9 - 14 reps, 2 sets
+6. Pull-Ups, 5 - 9 reps, 4 sets
+
+**Day 6: Legs**
+1. Bulgarian Split Squats, 8 - 11 reps, 2 sets
+2. Leg Extensions, 5 - 10 reps, 4 sets
+3. Squats, 9 - 11 reps, 2 sets
+4. Sitting Calf RaisesSitting Hamstring Curls, 7 - 9 reps, 4 sets
+5. Standing Calf Raises, 8 - 11 reps, 2 sets
+
+**Day 7: Rest**
+
+    
+### Input: give me a Beginner workout Routine 
+# output: 
+**Day 1: Push**
+1. Dumbbell Lateral Raises, 9 - 13 reps, 2 sets
+2. Barbell Bench Press, 6 - 8 reps, 3 sets
+3. Pec Deck, 5 - 9 reps, 3 sets
+4. Overhead Dumbbell Press, 6 - 10 reps, 3 sets
+5. Tricep Pushdowns, 6 - 8 reps, 3 sets
+6. Incline Dumbbell Press, 7 - 9 reps, 3 sets
+
+**Day 2: Pull**
+1. Dumbbell Curls, 7 - 10 reps, 2 sets
+2. Pull-Ups, 6 - 9 reps, 3 sets
+3. Single Arm Rows, 7 - 10 reps, 3 sets
+4. Seated Cable Rows, 7 - 12 reps, 3 sets
+5. Face Pulls, 7 - 10 reps, 3 sets
+
+**Day 3: Legs**
+1. Leg Extensions, 6 - 8 reps, 2 sets
+2. Bodyweight Squats, 8 - 12 reps, 3 sets
+3. Goblet Squats, 9 - 13 reps, 4 sets
+4. Standing Calf Raises, 9 - 13 reps, 3 sets
+5. Glute Bridges, 9 - 14 reps, 3 sets
+6. Leg Press, 9 - 14 reps, 4 sets
+
+**Day 4: Push**
+1. Incline Dumbbell Press, 7 - 10 reps, 3 sets
+2. Tricep Pushdowns, 10 - 14 reps, 3 sets
+3. Barbell Bench Press, 9 - 11 reps, 2 sets
+4. Overhead Dumbbell Press, 10 - 14 reps, 4 sets
+5. Overhead Dumbbell Extensions, 6 - 9 reps, 3 sets
+6. Dumbbell Lateral Raises, 5 - 9 reps, 2 sets
+7. Pec Deck, 9 - 14 reps, 3 sets
+
+**Day 5: Pull**
+1. Barbell Shrugs, 8 - 11 reps, 2 sets
+2. Pull-Ups, 9 - 14 reps, 4 sets
+3. Single Arm Rows, 6 - 9 reps, 2 sets
+4. Seated Cable Rows, 10 - 14 reps, 2 sets
+5. Reverse Pec Deck, 7 - 9 reps, 3 sets
+
+**Day 6: Legs**
+1. Goblet Squats, 6 - 8 reps, 4 sets
+2. Glute Bridges, 5 - 8 reps, 3 sets
+3. Bodyweight Squats, 9 - 14 reps, 2 sets
+4. Hamstring Curls, 6 - 9 reps, 4 sets
+5. Leg Extensions, 9 - 13 reps, 4 sets
+6. Standing Calf Raises, 10 - 14 reps, 4 sets
+
+**Day 7: Rest**
+
+
+### input: give me an Intermediate workout Routine
+#  output :
+**Day 1: Push**
+1. Skull Crushers, 6 - 11 reps, 2 sets
+2. Military Press, 10 - 12 reps, 2 sets
+3. Incline Barbell Press, 8 - 10 reps, 3 sets
+4. Tricep Pushdowns, 8 - 13 reps, 2 sets
+5. Cable Lateral Raises, 7 - 11 reps, 3 sets
+6. Dumbbell Lateral Raises, 10 - 12 reps, 3 sets
+
+**Day 2: Pull**
+1. Face Pulls, 10 - 14 reps, 2 sets
+2. Reverse Curls, 8 - 13 reps, 4 sets
+3. Preacher Curls, 10 - 15 reps, 3 sets
+4. Pull-Ups, 5 - 10 reps, 2 sets
+5. Cable Curls, 10 - 13 reps, 2 sets
+6. Bent Over Rows, 8 - 12 reps, 4 sets
+
+**Day 3: Legs**
+1. Romanian Deadlift, 5 - 7 reps, 2 sets
+2. Leg Press, 5 - 9 reps, 2 sets
+3. Lunges, 6 - 10 reps, 4 sets
+4. Hamstring Curls, 10 - 12 reps, 2 sets
+5. Sitting Calf Raises, 9 - 12 reps, 4 sets
+6. Squats, 7 - 11 reps, 2 sets
+
+**Day 4: Push**
+1. Cable Lateral Raises, 6 - 10 reps, 4 sets
+2. Incline Barbell Press, 10 - 15 reps, 4 sets
+3. Skull Crushers, 8 - 10 reps, 2 sets
+4. Tricep Pushdowns, 8 - 13 reps, 2 sets
+5. Dumbbell Lateral Raises, 9 - 11 reps, 3 sets
+6. Dumbbell Pullover, 7 - 9 reps, 4 sets
+
+**Day 5: Pull**
+1. Preacher Curls, 8 - 11 reps, 3 sets
+2. Bent Over Rows, 6 - 8 reps, 2 sets
+3. Rear Delt Flyes, 6 - 9 reps, 4 sets
+4. T-bar Rows, 7 - 9 reps, 4 sets
+5. Deadlifts, 8 - 10 reps, 3 sets
+6. Pull-Ups, 6 - 8 reps, 4 sets
+7. Reverse Curls, 10 - 12 reps, 3 sets
+
+**Day 6: Legs**
+1. Squats, 9 - 13 reps, 3 sets
+2. Sitting Calf Raises, 8 - 12 reps, 4 sets
+3. Leg Press, 10 - 14 reps, 2 sets
+4. Leg Extensions, 5 - 8 reps, 2 sets
+5. Romanian Deadlift, 6 - 9 reps, 2 sets
+6. Lunges, 9 - 13 reps, 4 sets
+
+**Day 7: Rest**
+
+
+### give me an Advanced workout Routine 
+# output: 
+**Day 1: Push**
+1. Skull Crushers, 5 - 7 reps, 2 sets
+2. Dumbbell Bench Press, 10 - 13 reps, 4 sets
+3. Chest Flyes, 6 - 11 reps, 4 sets
+4. Incline Dumbbell Press, 8 - 13 reps, 2 sets
+5. Tricep Pushdowns, 6 - 11 reps, 4 sets
+
+**Day 2: Pull**
+1. Pull-Ups, 10 - 14 reps, 4 sets
+2. Deadlifts, 8 - 12 reps, 3 sets
+3. Hammer Curls, 6 - 9 reps, 2 sets
+4. Incline Curls, 8 - 12 reps, 2 sets
+5. Single Arm Pulldowns, 8 - 12 reps, 4 sets
+
+**Day 3: Legs**
+1. Leg Extensions, 10 - 13 reps, 2 sets
+2. Sitting Calf RaisesSitting Hamstring Curls, 9 - 13 reps, 3 sets
+3. Standing Calf Raises, 7 - 10 reps, 4 sets
+4. Bulgarian Split Squats, 8 - 10 reps, 4 sets
+5. Hip Thrust, 9 - 11 reps, 3 sets
+6. Squats, 9 - 13 reps, 2 sets
+
+**Day 4: Push**
+1. Tricep Pushdowns, 5 - 8 reps, 3 sets
+2. Dumbbell Bench Press, 5 - 8 reps, 3 sets
+3. Cable Lateral Raises, 9 - 12 reps, 4 sets
+4. Incline Dumbbell Press, 10 - 15 reps, 4 sets
+5. Military Press, 10 - 15 reps, 3 sets
+
+**Day 5: Pull**
+1. Face Pulls, 8 - 10 reps, 3 sets
+2. Hammer Curls, 7 - 12 reps, 4 sets
+3. Deadlifts, 8 - 10 reps, 4 sets
+4. Cable Curls, 9 - 11 reps, 4 sets
+5. Bent Over Rows, 5 - 10 reps, 4 sets
+6. Incline Curls, 9 - 14 reps, 2 sets
+
+**Day 6: Legs**
+1. Standing Calf Raises, 10 - 14 reps, 2 sets
+2. Squats, 7 - 10 reps, 3 sets
+3. Hip Thrust, 8 - 10 reps, 4 sets
+4. Leg Extensions, 10 - 12 reps, 4 sets
+5. Bulgarian Split Squats, 5 - 9 reps, 3 sets
+
+**Day 7: Rest**
+
+    

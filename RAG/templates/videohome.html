@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Live Streaming</title>
+</head>
+<body>
+    <div class="video-player-container">
+        <h1 style="margin-left: 50%;">LIVE STREAMING</h1>
+       <h1>{{exercise_names[current_index] }}</h1>
+        <video controls autoplay>
+            <source src="{{ link }}" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <div class="navigation" style="margin-left: 50%; position: absolute;top:17%; width: 100%;">
+            {% if current_index + 1 < exercise_names|length %}
+                <form action="{{ url_for('play_video') }}" method="get">
+                    <img src="{{ url_for('video') }}" width="45%"/>
+                    <input type="hidden" name="exercise_names" value="{{ exercise_names|join(',') }}">
+                    <input type="hidden" name="current_index" value="{{ current_index + 1 }}">
+                    <br/>
+                    <br/>
+                    <button type="submit">Next Exercise</button>
+                    
+                </form>
+            {% else %}
+                <a href="{{ url_for('workout_complete') }}" class="complete-button">Complete Workout</a>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

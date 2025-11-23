@@ -1,0 +1,47 @@
+<!-- <h1>Exercise Video Player</h1>
+             <form action="/play" method="post">
+                <input type="text" name="exercise_name" placeholder="Enter exercise name">
+                <input type="submit" value="Play Video">
+            </form> 
+            <div id="videoContainer">
+                <h1>Video Player</h1>
+                <video width="640" height="480" controls>
+                    <source src="{{ link }}" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+             -->
+
+             <!DOCTYPE html>
+             <html lang="en">
+             
+             <head>
+                 <meta charset="UTF-8">
+                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                 <title>Video Player</title>
+                 <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+             </head>
+             
+             <body>
+                 <div class="video-player-container">
+                    <h1>{{exercise_names[current_index] }}</h1>
+                     <video controls autoplay>
+                         <source src="{{ link }}" type="video/mp4">
+                         Your browser does not support the video tag.
+                     </video>
+                     <div class="navigation">
+                         {% if current_index + 1 < exercise_names|length %}
+                             <form action="{{ url_for('play_video') }}" method="get">
+                                 <input type="hidden" name="exercise_names" value="{{ exercise_names|join(',') }}">
+                                 <input type="hidden" name="current_index" value="{{ current_index + 1 }}">
+                                 <button type="submit">Next Exercise</button>
+                             </form>
+                         {% else %}
+                             <a href="{{ url_for('workout_complete') }}" class="complete-button">Complete Workout</a>
+                         {% endif %}
+                     </div>
+                 </div>
+             </body>
+             
+             </html>
+             

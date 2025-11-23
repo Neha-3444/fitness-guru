@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Not Found</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: #708090;
+            color: #ffffff;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        button {
+            background: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>{{ exercise_names[current_index] }}</h1>
+        <h2>Video Not Found</h2>
+        <p>The video for the requested exercise was not found.</p>
+        <button onclick="window.history.back();">Go Back</button>
+        <br/>
+        <br/>
+        {% if current_index + 1 < exercise_names|length %}
+            <form action="{{ url_for('play_video') }}" method="get">
+                <input type="hidden" name="exercise_names" value="{{ exercise_names|join(',') }}">
+                <input type="hidden" name="current_index" value="{{ current_index + 1 }}">
+                <button type="submit">Next Exercise</button>
+            </form>
+        {% else %}
+            <a href="{{ url_for('workout_complete') }}" class="complete-button">Complete Workout</a>
+        {% endif %}
+    </div>
+</body>
+</html>
